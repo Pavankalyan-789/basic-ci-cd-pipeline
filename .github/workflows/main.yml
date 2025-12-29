@@ -26,5 +26,7 @@ jobs:
         run: npm test
 
       - name: Start application
-        run: node app.js
+        run: node
+
+
 
